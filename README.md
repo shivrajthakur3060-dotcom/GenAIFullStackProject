@@ -1,5 +1,5 @@
 ##Project Name:
-Full Stack and GEN-AI Web Development
+-Full Stack and GEN-AI Web Development
 
 
 
@@ -10,4 +10,4 @@ In this project I am going to build a full stack application using MERN Stack an
 - MongoDB,React,NodeJS,Express,JWT,Google Gemini
 
 ##Status:
-Work in progress ! ! !
+-Work in progress ! ! !
