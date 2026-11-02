@@ -1,13 +1,16 @@
-##Project Name
--Full Stack and GEN-AI Web Development
+# AI Job Preparation Platform
 
+A full stack web application built with the MERN stack and integrated with Generative AI to help users prepare for jobs.
 
+## About
+This project uses AI to help with job preparation. It is built as a hands-on way to learn full stack development and GenAI integration.
 
-In this project I am going to build a full stack application using MERN Stack and also going to integrate with GEN-AI.This project is about how to do job preparation using AI.
+## Tech Stack
+- **Database:** MongoDB
+- **Frontend:** React
+- **Backend:** Node.js, Express
+- **Authentication:** JWT
+- **AI:** Google Gemini
 
-
-##Tech Stack
-- MongoDB,React,NodeJS,Express,JWT,Google Gemini
-
-##Status
--Work in progress ! ! !
+## Status
+🚧 Work in progress
