@@ -14,3 +14,5 @@ This project uses AI to help with job preparation. It is built as a hands-on way
 
 ## Status
 🚧 Work in progress
+- ✅ Auth API (register, login, JWT)
+
